@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-OnlineSubsystemTest.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\jscarrero\Documents\Unreal Projects\UE5OnlineSubsystem\OnlineSubsystem\Intermediate\Build\Win64\OnlineSubsystemTestEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\jscarrero\Documents\Unreal Projects\UE5OnlineSubsystem\OnlineSubsystem\Intermediate\Build\Win64\UnrealEditor\Development\OnlineSubsystemTest\OnlineSubsystemTest.cpp.obj"
+"C:\Users\jscarrero\Documents\Unreal Projects\UE5OnlineSubsystem\OnlineSubsystem\Intermediate\Build\Win64\UnrealEditor\Development\OnlineSubsystemTest\OnlineSubsystemTestCharacter.cpp.obj"
+"C:\Users\jscarrero\Documents\Unreal Projects\UE5OnlineSubsystem\OnlineSubsystem\Intermediate\Build\Win64\UnrealEditor\Development\OnlineSubsystemTest\OnlineSubsystemTestGameMode.cpp.obj"
+"C:\Users\jscarrero\Documents\Unreal Projects\UE5OnlineSubsystem\OnlineSubsystem\Intermediate\Build\Win64\UnrealEditor\Development\OnlineSubsystemTest\OnlineSubsystemTest.init.gen.cpp.obj"
+"C:\Users\jscarrero\Documents\Unreal Projects\UE5OnlineSubsystem\OnlineSubsystem\Intermediate\Build\Win64\UnrealEditor\Development\OnlineSubsystemTest\OnlineSubsystemTestCharacter.gen.cpp.obj"
+"C:\Users\jscarrero\Documents\Unreal Projects\UE5OnlineSubsystem\OnlineSubsystem\Intermediate\Build\Win64\UnrealEditor\Development\OnlineSubsystemTest\OnlineSubsystemTestGameMode.gen.cpp.obj"
+"C:\Users\jscarrero\Documents\Unreal Projects\UE5OnlineSubsystem\OnlineSubsystem\Intermediate\Build\Win64\UnrealEditor\Development\OnlineSubsystemTest\Default.rc2.res"
+/OUT:"C:\Users\jscarrero\Documents\Unreal Projects\UE5OnlineSubsystem\OnlineSubsystem\Intermediate\Build\Win64\UnrealEditor\Development\OnlineSubsystemTest\UnrealEditor-OnlineSubsystemTest.lib"

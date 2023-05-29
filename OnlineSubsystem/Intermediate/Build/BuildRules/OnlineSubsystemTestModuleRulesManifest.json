@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\jscarrero\\Documents\\Unreal Projects\\UE5OnlineSubsystem\\OnlineSubsystem\\Source\\OnlineSubsystemTest\\OnlineSubsystemTest.Build.cs",
+		"C:\\Users\\jscarrero\\Documents\\Unreal Projects\\UE5OnlineSubsystem\\OnlineSubsystem\\Source\\OnlineSubsystemTest.Target.cs",
+		"C:\\Users\\jscarrero\\Documents\\Unreal Projects\\UE5OnlineSubsystem\\OnlineSubsystem\\Source\\OnlineSubsystemTestEditor.Target.cs"
+	],
+	"EngineVersion": "5.0.3"
+}

@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "OnlineSubsystemTest",
+			"Path": "C:\\Users\\jscarrero\\Documents\\Unreal Projects\\UE5OnlineSubsystem\\OnlineSubsystem\\Source\\OnlineSubsystemTest.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "OnlineSubsystemTestEditor",
+			"Path": "C:\\Users\\jscarrero\\Documents\\Unreal Projects\\UE5OnlineSubsystem\\OnlineSubsystem\\Source\\OnlineSubsystemTestEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
