@@ -1,0 +1,13 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\jscarrero\\documents\\unreal projects\\ue5onlinesubsystem\\onlinesubsystem\\intermediate\\build\\win64\\unrealeditor\\inc\\onlinesubsystemtest\\onlinesubsystemtest.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\jscarrero\\documents\\unreal projects\\ue5onlinesubsystem\\onlinesubsystem\\intermediate\\build\\win64\\onlinesubsystemtesteditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\jscarrero\\documents\\unreal projects\\ue5onlinesubsystem\\onlinesubsystem\\intermediate\\build\\win64\\unrealeditor\\development\\onlinesubsystemtest\\definitions.onlinesubsystemtest.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
